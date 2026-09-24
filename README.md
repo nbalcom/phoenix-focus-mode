@@ -1,1 +1,1 @@
-A plugin for increasing focus by turning off CSS classes that are built to show up by design.
+A plugin for increasing focus by turning off CSS classes that are built to show up by design. This was created for my site specifically. To use focus mode on your site your specific classes will need to be added to this file. It's pretty straight forward if you know CSS. If you use this on your own site it will need to be edited. I use it on my portfolio pages to direct focus on the projects. Example: https://natebal.com/portfolio/google-hq/
